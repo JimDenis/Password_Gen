@@ -10,7 +10,11 @@ None
 
 ### Installing
 
-Installed using GitHub
+Installed using GitHub with following commands:
+
+-   git add -A
+-   git commit -m"comment goes here"
+-   git push
 
 ## Running the tests
 
@@ -23,6 +27,6 @@ No automated testing
 
 ## Authors
 
--   **JIM Denis** - _Initial work_ - [JimDenis](https://github.com/JimDenis)
+-   **Jim Denis** - _Initial work_ - [JimDenis](https://github.com/JimDenis)
 
 This app can be found on https://jimdenis.github.io/Password_Gen/
