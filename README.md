@@ -24,7 +24,7 @@ Created a JavaScript program to generate a password for the user. They must resp
 
 ### Prerequisites
 
-None
+None -XXX
 
 ### Installing
 
