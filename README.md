@@ -17,7 +17,7 @@ Created a JavaScript program to generate a password for the user. They must resp
 -   Hit "OK" for yes & "Cancel" for no
 -   It will the prompt you "Do you want to use special charters"
 -   Hit "OK" for yes & "Cancel" for no
--   Assuming you answered yes "OK" to one of the above prompts it will generate your password.
+-   Assuming you answered yes "OK" to one or more of the above prompts it will generate your password.
 -   See example below.....
 
 ![Alt text](screencapture-jimdenis-github-io-Password_Gen-1595974932947.png)
@@ -41,6 +41,7 @@ No automated testing
 ## Built With
 
 -   HTML
+-   CSS
 -   JavaScript
 
 ## Authors
