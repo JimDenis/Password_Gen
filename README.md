@@ -26,6 +26,8 @@ Created a JavaScript program to generate a password for the user. They must resp
 
 ![Alt text](Test2.png)
 
+![Alt text](Test3.png)
+
 ### Prerequisites
 
 None
