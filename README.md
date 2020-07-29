@@ -22,9 +22,11 @@ Created a JavaScript program to generate a password for the user. They must resp
 
 ![Alt text](screencapture-jimdenis-github-io-Password_Gen-1595974932947.png)
 
+![Alt text](Test.png)
+
 ### Prerequisites
 
-None -XXX
+None
 
 ### Installing
 
