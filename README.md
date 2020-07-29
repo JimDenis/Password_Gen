@@ -20,13 +20,7 @@ Created a JavaScript program to generate a password for the user. They must resp
 -   Assuming you answered yes "OK" to one or more of the above prompts it will generate your password.
 -   See example below.....
 
-![Alt text](screencapture-jimdenis-github-io-Password_Gen-1595974932947.png)
-
-![Alt text](Test.png)
-
-![Alt text](Test2.png)
-
-![Alt text](Test3.png)
+![Alt text](PicWithPassword.png)
 
 ### Prerequisites
 
